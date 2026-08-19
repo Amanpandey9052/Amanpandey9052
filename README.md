@@ -260,15 +260,19 @@ I'm gradually building a strong foundation in **Data Structures, Algorithms and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey9052&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub Stats"/>
+  <a href="https://github.com/Amanpandey9052">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Amanpandey9052&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aman's GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey9052&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/Amanpandey9052">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amanpandey9052&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aman's Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey9052&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Amanpandey9052&theme=tokyonight&hide_border=true" alt="Aman's GitHub Streak"/>
 </p>
 
 ### 🔥 GitHub Streak Activity
