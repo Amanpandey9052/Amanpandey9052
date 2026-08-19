@@ -282,7 +282,7 @@ I'm gradually building a strong foundation in **Data Structures, Algorithms and 
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanpandey9052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=amanpandey9052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
