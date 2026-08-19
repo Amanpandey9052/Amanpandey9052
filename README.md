@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Aman Pandey</h1>
+<h1 align="center">👋 Hi, I'm Aman Pandey</h1>
 
-<h3 align="center">B.Tech CSE Student | Java Developer | Backend Development & DSA</h3>
+<h3 align="center">🚀 B.Tech CSE Student | Java Developer | Backend Development & DSA</h3>
 
 <p align="center">
   <a href="https://github.com/Amanpandey9052">
     <img src="https://komarev.com/ghpvc/?username=amanpandey9052&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amanpandey9052">
+    <img src="https://img.shields.io/github/followers/Amanpandey9052?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Amanpandey9052?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Amanpandey9052?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -20,6 +29,7 @@
 * 💡 Started my development journey with **HTML, CSS and JavaScript**
 * 🔍 Interested in **Backend Development, Java, DSA and Software Engineering**
 * 🤝 Open to collaborating on **Java, Spring Boot and beginner-friendly open-source projects**
+* 📫 Email: **[01aman2005@gmail.com](mailto:01aman2005@gmail.com)**
 
 ---
 
@@ -40,7 +50,7 @@ https://github.com/Amanpandey9052/ai-based-college-complaint-management-system
 
 ## 🛠️ Languages & Technologies
 
-### Languages
+### 💻 Languages
 
 <p align="left">
 <a href="https://www.java.com/" target="_blank">
@@ -68,7 +78,7 @@ https://github.com/Amanpandey9052/ai-based-college-complaint-management-system
 </a>
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p align="left">
 <a href="https://spring.io/projects/spring-boot" target="_blank">
@@ -88,7 +98,7 @@ https://github.com/Amanpandey9052/ai-based-college-complaint-management-system
 </a>
 </p>
 
-### Tools
+### 🔧 Tools & Platforms
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank">
@@ -181,6 +191,40 @@ A collection of JavaScript learning programs and experiments created while learn
 My coding practice and problem-solving journey, focused primarily on **Java and Data Structures & Algorithms**.
 
 🔗 https://github.com/Amanpandey9052
+
+> ⭐ Explore my repositories to see more projects and experiments.
+
+---
+
+## 📚 Currently Learning
+
+```text
+☕ Java
+ ├── Data Structures & Algorithms
+ └── Backend Development
+
+🌐 Web Development
+ ├── HTML
+ ├── CSS
+ └── JavaScript
+
+🚀 Backend Development
+ ├── Spring Boot
+ ├── REST APIs
+ ├── JDBC
+ ├── SQL
+ └── Backend Architecture
+```
+
+---
+
+## 🎯 Current Focus
+
+* 🧠 Strengthening **Java and Data Structures & Algorithms**
+* 🚀 Building skills in **Backend Development with Spring Boot**
+* 🛠️ Working on an **AI-powered College Complaint Management System**
+* 🌱 Learning **Spring Boot, REST APIs, JDBC, SQL and backend architecture**
+* 💻 Building projects while progressing toward **Java backend development**
 
 ### 🧩 LeetCode Profile
 
