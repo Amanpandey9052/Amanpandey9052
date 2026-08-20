@@ -136,6 +136,16 @@ An AI-powered system for managing college complaints, designed around students, 
 
 ---
 
+### 🎓 Student Result Management System
+
+A Java-based student result management system built to practice **Object-Oriented Programming, Java fundamentals and data management**.
+
+**Tech:** Java • OOP
+
+🔗 https://github.com/Amanpandey9052/student-result-management-system
+
+---
+
 ### 🍽️ Restro
 
 A restaurant-related web project built while practicing frontend development and web technologies.
@@ -163,26 +173,6 @@ A JavaScript-based browser game created to practice JavaScript fundamentals, DOM
 **Tech:** HTML • CSS • JavaScript
 
 🔗 https://github.com/Amanpandey9052/Rock-Paper-Scissor-
-
----
-
-### 🐍 Snake Water Gun
-
-A simple implementation of the classic Snake-Water-Gun game.
-
-**Tech:** JavaScript
-
-🔗 https://github.com/Amanpandey9052/Snake-Water-Gun
-
----
-
-### 📚 JavaScript Tutorials
-
-A collection of JavaScript learning programs and experiments created while learning JavaScript fundamentals.
-
-**Tech:** JavaScript
-
-🔗 https://github.com/Amanpandey9052/javascript-tutorials
 
 ---
 
