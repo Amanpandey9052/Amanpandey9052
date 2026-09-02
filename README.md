@@ -309,11 +309,11 @@ I'm gradually building a strong foundation in **Data Structures, Algorithms and 
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Amanpandey9052&theme=tokyonight&hide_border=true" alt="Aman's GitHub Streak"/>
 </p>
 
-### 🔥 GitHub Streak Activity
+<!--### 🔥 GitHub Streak Activity -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpandey9052&theme=tokyo-night&hide_border=true" alt="Aman's GitHub Contribution Activity"/>
-</p>
+</p> -->
 
 ---
 
