@@ -506,7 +506,11 @@ Note: PostgreSQL is a database system, while SQL is the database query language 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amanpandey9052&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amanpandey9052&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies"/>
+
+</a>
 
 </div>
 
@@ -593,7 +597,6 @@ LEARN • CODE • BUILD • GROW
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aman-pandey-883b91311/">aman-pandey-883b91311</a><br>
 🧩 <b>LeetCode:</b> <a href="https://leetcode.com/u/Aman42_/">Aman42_</a><br>
 🟢 <b>GeeksForGeeks:</b> <a href="https://www.geeksforgeeks.org/user/01amanqvhm/">01amanqvhm</a><br>
-📊 <b>Codeforces:</b> <a href="https://codeforces.com/profile/aarav_42">aarav_42</a><br>
 📸 <b>Instagram:</b> <a href="https://www.instagram.com/aarav42_/">aarav42_</a>
 
 </p>
