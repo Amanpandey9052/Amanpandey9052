@@ -502,17 +502,6 @@ Note: PostgreSQL is a database system, while SQL is the database query language 
 
 </div>
 
-🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amanpandey9052&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies"/>
-
-</a>
-
-</div>
 
 🎯 Current Focus
 
