@@ -436,11 +436,8 @@ API Testing
 
 📊 Database Knowledge
 
-I have worked with / am learning the following database technologies:
+I am learning the following database technologies:
 
-Technology
-
-Focus
 
 SQL
 
